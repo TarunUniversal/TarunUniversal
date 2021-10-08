@@ -11,6 +11,7 @@ I am super excited and passionate about my job. I love to do developing work and
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
+<br/>
 
 - 🎓 &nbsp; I’m currently working as **React Developer Associate at The Entrepreneurship Network**
 - 🎓 &nbsp; I’m currently working on **Note's Management Web Application**
