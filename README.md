@@ -13,7 +13,7 @@ I am super excited and passionate about my job. I love to do developing work and
 ### More About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 <br/>
 
-- 🎓 &nbsp; I’m currently working as **React Developer Associate at The Entrepreneurship Network**
+- 🎓 &nbsp; Ex - **React Developer Associate at The Entrepreneurship Network**
 - 🎓 &nbsp; I’m currently working on **Note's Management Web Application**
 - 🌱 &nbsp; I’m currently learning MERN Stack; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/TarunUniversal?tab=repositories)
